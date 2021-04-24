@@ -1,6 +1,7 @@
 
 # Qt-Opencascade
 Qt Opencascade templates for c++ and qml. 
+The project archives are in the release page.
 
 The project's are develloped in Linux-Pro : https://sourceforge.net/projects/linux-11-pro/
 Linux-Pro has a autoinstaller for Qt creator.
